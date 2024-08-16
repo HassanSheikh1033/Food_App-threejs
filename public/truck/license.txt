@@ -1,0 +1,11 @@
+Model Information:
+* title:	Food Car
+* source:	https://sketchfab.com/3d-models/food-car-ccd7b78cd1a3400caf7ffff8179449ef
+* author:	esteban.araujo (https://sketchfab.com/esteban.araujo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Food Car" (https://sketchfab.com/3d-models/food-car-ccd7b78cd1a3400caf7ffff8179449ef) by esteban.araujo (https://sketchfab.com/esteban.araujo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
